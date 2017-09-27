@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Charge</string>
+    <string name="text_level">Level:</string>
+    <string name="text_level_1">1</string>
+    <string name="text_level_2">2</string>
+    <string name="text_level_3">3</string>
+    <string name="text_level_dc_fast">DC Fast</string>
+    <string name="text_level_supper">Supper</string>
+</resources>

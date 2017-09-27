@@ -1,0 +1,23 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--App Dimen-->
+    <dimen name="dimen_padding_2dp">2dp</dimen>
+    <dimen name="dimen_padding_3dp">3dp</dimen>
+    <dimen name="dimen_padding_5dp">5dp</dimen>
+    <dimen name="dimen_padding_8dp">8dp</dimen>
+    <dimen name="dimen_padding_10dp">10dp</dimen>
+
+    <dimen name="arc_stroke">2dp</dimen>
+    <dimen name="arc_text">18dp</dimen>
+
+    <!--App Dimen Text-->
+    <dimen name="size_app_text_regular">16sp</dimen>
+    <dimen name="size_app_text_medium">14sp</dimen>
+    <dimen name="size_app_text_small">12sp</dimen>
+    <dimen name="size_box">220dp</dimen>
+
+    <dimen name="arc_padding">10dp</dimen>
+</resources>

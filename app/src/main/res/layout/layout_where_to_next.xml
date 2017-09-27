@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    android:id="@+id/llNext"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:layout_marginBottom="-10dp"
+    android:background="@color/colorWhite"
+    app:cardCornerRadius="10dp"
+    app:cardElevation="8dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="@dimen/dimen_padding_10dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:padding="@dimen/dimen_padding_10dp">
+
+        <ImageView
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/selector_round_shape_gray_10dp"
+            android:padding="@dimen/dimen_padding_3dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="@drawable/selector_round_shape_gray_10dp"
+            android:drawablePadding="5dp"
+            android:drawableStart="@drawable/search"
+            android:padding="@dimen/dimen_padding_10dp"
+            android:text="Where to next "
+            android:textColor="@color/colorGray"
+            android:textSize="@dimen/size_app_text_regular"/>
+
+    </LinearLayout>
+</android.support.v7.widget.CardView>
